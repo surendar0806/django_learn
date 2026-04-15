@@ -1,0 +1,45 @@
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 700px;
+            margin: auto;
+            padding: 24px;
+            background: #f7f6f2
+        }
+
+
+        form {
+            background: #fff;
+            padding: 20px;
+            border-radius: 10px
+        }
+
+
+        p {
+            margin-bottom: 14px
+        }
+
+
+        input,
+        select,
+        textarea {
+            width: 100%;
+            padding: 10px;
+            margin-top: 6px
+        }
+
+
+        button {
+            background: #01696f;
+            color: #fff;
+            border: none;
+            padding: 12px 18px;
+            border-radius: 8px
+        }
+
+
+        a {
+            display: inline-block;
+            margin-top: 12px
+        }
+    </style>
